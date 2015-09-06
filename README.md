@@ -1,2 +1,2 @@
 # searchme
-in browser search engine
+A simple in browser search engine
